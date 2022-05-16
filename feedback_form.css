@@ -1,0 +1,50 @@
+.background {
+    background-color: rgb(37, 37, 37);
+    color: whitesmoke;
+}
+body{
+    display: block;
+    margin: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.headerr{
+    font-family: 'Lucida Handwriting', cursive;
+    text-align: center;
+    font-size: x-large;
+    color: cornsilk;
+}
+header{
+    display: block;
+}
+
+form.dotted{
+    border-style: dotted;
+    border-color: red;
+}
+#grad{
+    padding-left: 2px;
+    background-image: linear-gradient(to right, maroon, red, orange);
+}
+#grad1{
+    background-image: linear-gradient(to left, maroon, red, orange, maroon, black);
+    border-radius: 10px;
+    color: white;
+    padding-left: 4px;
+}
+form{
+    border-radius: 10px;
+}
+
+.image{
+    border-radius: 20px;
+    justify-content: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    width: 99%;
+    height: 94%;
+}
+footer{
+    display:block;
+}
